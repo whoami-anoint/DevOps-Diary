@@ -1,4 +1,5 @@
 ## DevOps & Agile 
+![image](https://github.com/whoami-anoint/DevOps/assets/72187543/5bc492cb-0325-452f-a71c-8813306b7c95)
 
 ### Agile Development:
 - Focuses on delivering small results faster through iterative development.
