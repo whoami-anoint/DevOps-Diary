@@ -1,7 +1,7 @@
 # DevOps
 
 ### This repo is actually made for note-keeping purposes. If you're preparing yourself for DevOps, this may assist you in your learning journey.
-![image](https://github.com/whoami-anoint/DevOps/assets/72187543/2e14cd48-2eff-431d-a591-4ae089e1cf55)
+![image](https://github.com/whoami-anoint/DevOps/assets/72187543/9bd769cc-39ca-42af-862b-2fcf4fa5756a)
 
 
 - <a href="introduction.md">Introduction of DevOps</a>
