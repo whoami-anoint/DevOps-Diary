@@ -1,4 +1,6 @@
 ## DevOps Lifecycle - Application Focused
+![image](https://github.com/whoami-anoint/DevOps/assets/72187543/0b908897-c3c8-45af-844d-d8bb45275f37)
+
 
 ### Development:
 - DevOps engineers may not code the application but should understand the code to make better infrastructure decisions.
