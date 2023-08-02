@@ -27,6 +27,13 @@
 - Reliability, observability, security, and data management should be continuously monitored.
 - FinOps teams should be involved to manage cloud costs.
 
+### Operations:
+
+- Operations involve the management and maintenance of the application and infrastructure in the      production environment.
+-    It includes tasks such as monitoring the application's health, handling incidents and outages, ensuring high availability, and managing the infrastructure's performance and scalability.
+ -   DevOps emphasizes the collaboration between development and operations teams to ensure a smooth and efficient deployment process.
+ -   Operations teams work closely with developers to address any issues that arise in the production environment and to ensure the application's ongoing reliability and performanc
+
 ### DevOps Engineer Title:
 - DevOps processes and culture should be adopted across various positions, not limited to a specific "DevOps Engineer" role.
 - Positions like Cloud-Native engineer, Cloud architect/engineer, etc., should embrace DevOps practices.
