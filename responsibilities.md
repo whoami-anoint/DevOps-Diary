@@ -8,3 +8,18 @@
 - The application might be developed to run as containers, so knowledge of virtualization, Cloud Infrastructure as a Service (IaaS), and containerization is important.
 - DevOps engineers are responsible for continuously and efficiently releasing new application versions, including testing, in an automated manner.
 - The goal is to make these processes seamless and automated to ensure the smooth delivery of new features and bug fixes to end users.
+
+<details>
+
+## DevOps Engineer Responsibilities:
+
+- Link dev and infrastructure.
+- Understand dev concepts and tools.
+- Configure app communication, deployment, and server setup.
+- Manage servers on-premises, cloud, or serverless.
+- Basic networking knowledge.
+- Virtualization, IaaS, container familiarity.
+- Automate releases with testing.
+- Smooth feature delivery to users.
+
+</details>
