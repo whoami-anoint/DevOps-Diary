@@ -1,4 +1,6 @@
 ## Continuous cycle of an Application in a DevOps world
+![image](https://github.com/whoami-anoint/DevOps/assets/72187543/fd1973a6-4b54-40af-886b-465e3fd43bb6)
+
 
 ### Plan:
 - Planning phase where development team discusses features and bug fixes for the next sprint.
