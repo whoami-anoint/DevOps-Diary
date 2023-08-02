@@ -7,3 +7,13 @@
 - DevOps aims for continuous delivery of applications.
 - DevOps culture breaks silos between teams.
 - Automation is essential for effective DevOps practices.
+
+<details>
+
+- DevOps = smarter software development.
+- Combines dev and ops for faster releases.
+- Benefits devs, ops, QA.
+- Aims for continuous delivery.
+- Breaks team silos.
+- Emphasizes automation.
+</details>
