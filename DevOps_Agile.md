@@ -1,5 +1,4 @@
-### DevOps & Agile 
-Sure! Here are the important notes for each topic in short and sweet points:
+## DevOps & Agile 
 
 ### Agile Development:
 - Focuses on delivering small results faster through iterative development.
