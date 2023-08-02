@@ -6,3 +6,4 @@
 - <a href="responsibilities.md">Responsibilities of a DevOps Engineer</a>
 - <a href="lifecycle.md">DevOps Lifecycle</a>
 - <a href="DevOps_Agile.md">DevOps & Agile</a>
+- <a href="continuous_cycle.md">Continuous cycle of an Application in a DevOps world</a>
