@@ -22,6 +22,9 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 ### Day 3: Virtual Machines Basics
 - [Virtual Machines Basics](Day%203/7_Virtual%20Machines%20Basic.md)
 
+### Day 4: Virtual Machines and Automation with AWS & Azure
+- [AWS & Azure: How to Create Virtual Machines and Automation](Day 4/How to Create Virtual Machines and Automation.md)
+
 ## About This Repository
 
 This repository is a collection of notes and resources to assist you on your DevOps journey. Feel free to explore the chapters, ask questions in the discussions, and contribute by creating [pull requests](https://github.com/whoami-anoint/DevOps-Diary/pulls).
