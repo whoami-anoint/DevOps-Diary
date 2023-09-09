@@ -33,6 +33,6 @@ This repository is a collection of notes and resources to assist you on your Dev
 
 📣 **Join the Discussion**: Have questions, ideas, or thoughts to share? Visit our [Discussions](https://github.com/whoami-anoint/DevOps/discussions) section.
 
-🛠️ **Contribute**: Found a typo or want to add more content? Open a pull request! We appreciate your contributions.
+🛠️ **Contribute**: Found a typo or want to add more content? Open a [pull requests](https://github.com/whoami-anoint/DevOps-Diary/pulls)! We appreciate your contributions.
 
 Let's learn and grow together in the world of DevOps! 🌐
