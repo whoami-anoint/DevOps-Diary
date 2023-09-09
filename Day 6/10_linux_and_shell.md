@@ -1,4 +1,6 @@
 # Day 6 - Linux & Shell Scripting
+## Free DevOps Course - 45 days
+### #devopscourse
 
 ### Agenda
 - Introduction to Linux Operating System
@@ -10,27 +12,50 @@
 ### Key Points
 
 1. **Introduction to Linux Operating System**
-   - Linux is a popular open-source operating system commonly used in server environments.
+   - Linux is a robust open-source operating system commonly used in server environments.
+   - Key characteristics include security, stability, and a wide range of distributions (e.g., Ubuntu, CentOS, Debian).
    - Understanding Linux fundamentals is crucial for DevOps professionals as many cloud servers run on Linux distributions.
 
 2. **Basic Linux Commands**
-   - Learn essential Linux commands for navigating the file system, managing files and directories, and interacting with processes.
-   - Common commands include `ls`, `cd`, `pwd`, `mkdir`, `rm`, `cp`, `mv`, and `ps`.
+   - Learn essential Linux commands for effective command-line navigation and management.
+   - Common commands include:
+     - `ls`: List files and directories in the current directory.
+     - `cd`: Change directories.
+     - `pwd`: Print the current working directory.
+     - `mkdir`: Create directories.
+     - `rm`: Remove files or directories.
+     - `cp`: Copy files and directories.
+     - `mv`: Move or rename files and directories.
+     - `ps`: List running processes.
+   - Practice these commands to become familiar with the Linux file system.
 
 3. **Introduction to Shell Scripting**
    - Shell scripting involves writing and executing scripts in a shell (command-line environment) to automate tasks.
-   - Common shells include Bash, Zsh, and Fish.
+   - Common shells include Bash (Bourne Again SHell), Zsh, and Fish.
+   - Shells interpret and execute commands, making them powerful tools for automation.
 
 4. **Writing Your First Shell Script**
    - Start by creating a simple "Hello World" script in Bash or your preferred shell.
-   - Learn how to make the script executable using the `chmod` command.
-   - Execute the script using `./scriptname.sh`.
+   - Open a text editor and write your script, e.g.:
+     ```bash
+     #!/bin/bash
+     echo "Hello, DevOps!"
+     ```
+   - Make the script executable using the `chmod` command:
+     ```bash
+     chmod +x scriptname.sh
+     ```
+   - Execute the script:
+     ```bash
+     ./scriptname.sh
+     ```
 
 5. **Best Practices for Shell Scripting**
-   - Use comments to document your scripts for better readability.
-   - Ensure your scripts have proper error handling.
+   - Use comments extensively to document your scripts for better readability.
+   - Ensure your scripts have proper error handling to gracefully handle unexpected situations.
    - Keep scripts modular and reusable by defining functions.
    - Follow security best practices to prevent unauthorized access to your scripts.
+   - Avoid hardcoding sensitive information like passwords or API keys in your scripts.
 
 ### Homework
 - Practice basic Linux commands by navigating through your system, creating, moving, and deleting files and directories.
