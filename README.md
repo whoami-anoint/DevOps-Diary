@@ -14,4 +14,4 @@
 - <a href="Day 2/5_continuous_cycle.md5_continuous_cycle.md">Continuous cycle of an Application in a DevOps world</a>
 
 ### Day 3
-- <a href="Day 3/7_Virtual Machines Part .md">DevOps Lifecycle</a>
+- <a href="Day 3/7_Virtual Machines Part .md">Virtual Machines Basic</a>
