@@ -1,4 +1,4 @@
-# Day 3 - Virtual Machines
+# Day 3 - Virtual Machines Basic
 ## Free DevOps Course - 45 days
 ### #devopscourse
 
