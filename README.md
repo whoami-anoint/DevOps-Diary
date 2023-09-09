@@ -24,11 +24,11 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 
 ## About This Repository
 
-This repository is a collection of notes and resources to assist you on your DevOps journey. Feel free to explore the chapters, ask questions in the discussions, and contribute by creating pull requests.
+This repository is a collection of notes and resources to assist you on your DevOps journey. Feel free to explore the chapters, ask questions in the discussions, and contribute by creating [pull requests]().
 
 ## Get Involved
 
-📣 **Join the Discussion**: Have questions, ideas, or thoughts to share? Visit our [Discussions](https://github.com/whoami-anoint/DevOps/discussions) section.
+📣 **Join the Discussion**: Have questions, ideas, or thoughts to share? Visit our [Discussions](https://github.com/whoami-anoint/DevOps/pulls) section.
 
 🛠️ **Contribute**: Found a typo or want to add more content? Open a pull request! We appreciate your contributions.
 
