@@ -1,5 +1,5 @@
 # Day 6 - Linux & Shell Scripting
-## Free DevOps Course - 45 days
+## DevOps_Diary
 ### #devopscourse
 
 ### Agenda
