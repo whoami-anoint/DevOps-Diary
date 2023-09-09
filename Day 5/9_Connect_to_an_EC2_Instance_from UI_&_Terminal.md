@@ -1,5 +1,4 @@
 # Day 5 - How to Connect to an EC2 Instance from UI & Terminal
-## Free DevOps Course - 45 days
 ### #devopscourse
 
 ### Agenda
