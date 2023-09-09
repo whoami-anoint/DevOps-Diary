@@ -1,3 +1,4 @@
+# Day 1 - Part 2: Introduction to DevOps
 ## Responsibilities of a DevOps Engineer
 
 - DevOps is the link between developers creating applications and the infrastructure that runs them.
