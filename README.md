@@ -28,7 +28,7 @@ This repository is a collection of notes and resources to assist you on your Dev
 
 ## Get Involved
 
-📣 **Join the Discussion**: Have questions, ideas, or thoughts to share? Visit our [Discussions](https://github.com/whoami-anoint/DevOps/pulls) section.
+📣 **Join the Discussion**: Have questions, ideas, or thoughts to share? Visit our [Discussions](https://github.com/whoami-anoint/DevOps-Diary/pulls) section.
 
 🛠️ **Contribute**: Found a typo or want to add more content? Open a pull request! We appreciate your contributions.
 
