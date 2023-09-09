@@ -27,20 +27,20 @@
 ### Monitor:
 - Monitoring is essential for operational issues, troubleshooting, and alerting about potential problems.
 
-### Rinse & Repeat:
+## Rinse & Repeat:
 - The continuous loop of the DevOps lifecycle, going back to planning after each cycle.
 
-### Continuous Delivery:
+## Continuous Delivery:
 - Plan > Code > Build > Test, achieving a continuous process.
 
-### Continuous Integration:
+## Continuous Integration:
 - Plan > Code > Build > Test > Release, outcome of Continuous Delivery and Release phases.
 
-### Continuous Deployment:
+## Continuous Deployment:
 - Successful release from Continuous Integration leads to Continuous Deployment:
   Deploy > Operate > Monitor.
 
-### CI/CD:
+## CI/CD:
 - Continuous Integration/Continuous Delivery/Continuous Deployment, fundamental concepts in DevOps.
 
 #### The DevOps lifecycle involves iterative phases from planning to continuous monitoring, fostering collaboration between development, QA, and operations teams to deliver high-quality, reliable software efficiently.
