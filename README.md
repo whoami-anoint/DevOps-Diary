@@ -11,16 +11,17 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 ## Table of Contents
 
 ### Day 1: Introduction to DevOps
-- [Introduction of DevOps](Day%201/1_introduction.md)
-- [Responsibilities of a DevOps Engineer](Day%201/2_responsibilities.md)
+- [Introduction of DevOps](Day 1/1_introduction.md)
+- [Responsibilities of a DevOps Engineer](Day 1/2_responsibilities.md)
 
 ### Day 2: DevOps Lifecycle
-- [DevOps Lifecycle](Day%202/3_lifecycle.md)
-- [DevOps & Agile](Day%202/4_DevOps_Agile.md)
-- [Continuous Cycle of an Application in a DevOps World](Day%202/5_continuous_cycle.md)
+- [DevOps Lifecycle](Day 2/3_lifecycle.md)
+- [DevOps & Agile](Day 2/4_DevOps_Agile.md)
+- [Continuous Cycle of an Application in a DevOps World](Day 2/5_continuous_cycle.md)
+- [Improve SDLC with DevOps](Day 2/6_Improve SDLC with DevOps.md)
 
 ### Day 3: Virtual Machines Basics
-- [Virtual Machines Basics](Day%203/7_Virtual%20Machines%20Basic.md)
+- [Virtual Machines Basics](Day 3/7_Virtual Machines Part .md)
 
 ### Day 4: Virtual Machines and Automation with AWS & Azure
 - [AWS & Azure: How to Create Virtual Machines and Automation](Day 4/How to Create Virtual Machines and Automation.md)
