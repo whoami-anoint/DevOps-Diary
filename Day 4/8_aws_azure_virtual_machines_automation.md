@@ -17,7 +17,7 @@
 2. **Creating Virtual Machines on AWS and Azure**
    - AWS offers services like Amazon EC2 (Elastic Compute Cloud) for creating and managing virtual machines.
    - Azure provides Azure Virtual Machines for VM creation and management.
-   - Steps to create VMs on AWS and Azure were discussed in the previous class.
+   - Steps to create VMs on AWS and Azure will be discussed in the next class.
 
 3. **AWS Scripting, AWS CLI, and AWS CloudFormation (CFT)**
    - AWS scripting involves using languages like Python or JavaScript to automate tasks in AWS.
