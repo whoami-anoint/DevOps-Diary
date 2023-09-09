@@ -28,7 +28,7 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 ### Day 5: Linux & Shell Scripting
 [Linux & Shell Scripting](/Day%206/linux_and_shell.md)
 
-### Day 5: EC2 Instance from UI & Terminal
+### Day 6: EC2 Instance from UI & Terminal
 - [How to Connect to an EC2 Instance from UI & Terminal](Day%205/9_Connect_to_an_EC2_Instance_from_UI_and_Terminal.md)
 
 ## About This Repository
