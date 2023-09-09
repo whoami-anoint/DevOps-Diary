@@ -25,6 +25,9 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 ### Day 4: Virtual Machines and Automation with AWS & Azure
 - [AWS & Azure: How to Create Virtual Machines and Automation](Day%204/8_aws_azure_virtual_machines_automation.md)
 
+### Day 5: EC2 Instance from UI & Terminal
+- [How to Connect to an EC2 Instance from UI & Terminal](Day%205/9_Connect_to_an_EC2_Instance_from UI_&_Terminal.md)
+
 ## About This Repository
 
 This repository is a collection of notes and resources to assist you on your DevOps journey. Feel free to explore the chapters, ask questions in the discussions, and contribute by creating [pull requests](https://github.com/whoami-anoint/DevOps-Diary/pulls).
