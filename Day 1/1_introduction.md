@@ -28,7 +28,3 @@
 ### Additional Resources
 - [Introduction to DevOps](https://www.geeksforgeeks.org/introduction-to-devops/)
 - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://yes-pdf.com/electronic-book/749)
-
-### Next Class (Day 1 - Part 2)
-- Topic: DevOps Principles and Practices
-- Assignment: List and explain at least three key DevOps principles that guide its implementation in software development.
