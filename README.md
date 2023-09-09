@@ -26,7 +26,7 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 - [AWS & Azure: How to Create Virtual Machines and Automation](Day%204/8_aws_azure_virtual_machines_automation.md)
 
 ### Day 5: Linux & Shell Scripting
-[Linux & Shell Scripting](/Day%206/linux_and_shell.md)
+- [Linux & Shell Scripting](/Day%206/10_linux_and_shell.md)
 
 ### Day 6: EC2 Instance from UI & Terminal
 - [How to Connect to an EC2 Instance from UI & Terminal](Day%205/9_Connect_to_an_EC2_Instance_from_UI_and_Terminal.md)
