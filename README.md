@@ -20,7 +20,7 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 - [Continuous Cycle of an Application in a DevOps World](Day%202/5_continuous_cycle.md)
 
 ### Day 3: Virtual Machines Basics
-- [Virtual Machines Basics](Day%203/7_Virtual Machines Part .md)
+- [Virtual Machines Basics](Day%203/7_virtual_machines_basics.md)
 
 ### Day 4: Virtual Machines and Automation with AWS & Azure
 - [AWS & Azure: How to Create Virtual Machines and Automation](Day%204/8_aws_azure_virtual_machines_automation.md)
