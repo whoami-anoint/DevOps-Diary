@@ -1,17 +1,34 @@
-# DevOps
+# DevOps Diary
 
-### This repo is actually made for note-keeping purposes. If you're preparing yourself for DevOps, this may assist you in your learning journey.
-![image](https://github.com/whoami-anoint/DevOps/assets/72187543/9bd769cc-39ca-42af-862b-2fcf4fa5756a)
+[![GitHub discussions](https://img.shields.io/github/discussions/whoami-anoint/DevOps)](https://github.com/whoami-anoint/DevOps/discussions)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/whoami-anoint/DevOps)](https://github.com/whoami-anoint/DevOps/pulls)
 
-## Chapters
-### Day 1 
-- <a href="Day 1/1_introduction.md">Introduction of DevOps</a>
-- <a href="Day 1/2_responsibilities.md">Responsibilities of a DevOps Engineer</a>
+Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're in the right place.
 
-### Day 2 
-- <a href="Day 2/3_lifecycle.md3_lifecycle.md">DevOps Lifecycle</a>
-- <a href="Day 2/4_DevOps_Agile.md4_DevOps_Agile.md">DevOps & Agile</a>
-- <a href="Day 2/5_continuous_cycle.md5_continuous_cycle.md">Continuous cycle of an Application in a DevOps world</a>
+![DevOps](https://github.com/whoami-anoint/DevOps/assets/72187543/9bd769cc-39ca-42af-862b-2fcf4fa5756a)
 
-### Day 3
-- <a href="Day 3/7_Virtual Machines Part .md">Virtual Machines Basic</a>
+## Table of Contents
+
+### Day 1: Introduction to DevOps
+- [Introduction of DevOps](Day%201/1_introduction.md)
+- [Responsibilities of a DevOps Engineer](Day%201/2_responsibilities.md)
+
+### Day 2: DevOps Lifecycle
+- [DevOps Lifecycle](Day%202/3_lifecycle.md)
+- [DevOps & Agile](Day%202/4_DevOps_Agile.md)
+- [Continuous Cycle of an Application in a DevOps World](Day%202/5_continuous_cycle.md)
+
+### Day 3: Virtual Machines Basics
+- [Virtual Machines Basics](Day%203/7_Virtual%20Machines%20Basic.md)
+
+## About This Repository
+
+This repository is a collection of notes and resources to assist you on your DevOps journey. Feel free to explore the chapters, ask questions in the discussions, and contribute by creating pull requests.
+
+## Get Involved
+
+📣 **Join the Discussion**: Have questions, ideas, or thoughts to share? Visit our [Discussions](https://github.com/whoami-anoint/DevOps/discussions) section.
+
+🛠️ **Contribute**: Found a typo or want to add more content? Open a pull request! We appreciate your contributions.
+
+Let's learn and grow together in the world of DevOps! 🌐
