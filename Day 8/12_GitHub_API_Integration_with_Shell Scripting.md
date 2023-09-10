@@ -3,12 +3,13 @@
 ## DevOps Diary 
 
 ### Introduction
-In Day 8 of our DevOps project, we will explore how to integrate the GitHub API with shell scripting to automate various tasks related to managing GitHub repositories. This tutorial will guide you through the process of setting up authentication, creating repositories, managing issues, working with pull requests, and handling releases using shell scripts.
+In Day 8 of our DevOps journey, we will explore how to integrate the GitHub API with shell scripting to automate various tasks related to managing GitHub repositories.\
+This tutorial will guide you through the process of setting up authentication, creating repositories, managing issues, working with pull requests, and handling releases using shell scripts.
 
 ### Prerequisites
 Before starting, ensure you have the following prerequisites:
 - [A GitHub account](https://github.com/)
-- **Basic knowledge of shell scripting**
+- [Basic knowledge of shell scripting](/Day%206/10_linux_and_shell.md)
 - [GitHub Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
 ### Step 1: Setting Up Authentication
