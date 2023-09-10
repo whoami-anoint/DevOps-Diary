@@ -97,3 +97,6 @@ This steps to configure the SSH server to allow password-based authentication an
 - [AWS Management Console](https://aws.amazon.com/console/)
 
 Remember, connecting securely to EC2 instances is crucial for maintaining the integrity and security of your AWS infrastructure. Regular practice and adherence to best practices are essential.
+
+
+[Click here to continue to Day 6](#) <!-- Update with Day 10 link when available -->
