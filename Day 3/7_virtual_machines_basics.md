@@ -39,3 +39,6 @@
 - [KVM Documentation](https://www.linux-kvm.org/page/Documents)
 
 Remember to actively participate in discussions and ask questions during the course to enhance your understanding of virtualization and its role in DevOps.
+
+
+[Click here to continue to Day 4](/Day%204/) <!-- Update with Day 10 link when available -->
