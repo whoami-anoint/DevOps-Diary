@@ -24,3 +24,5 @@
 - Smooth feature delivery to users.
 
 </details>
+
+[Click here to continue to Day 2](/Day%202/) <!-- Update with Day 10 link when available -->
