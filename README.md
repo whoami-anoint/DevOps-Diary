@@ -31,10 +31,10 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 ### Day 6: Linux & Shell Scripting
 - [Linux & Shell Scripting](/Day%206/10_linux_and_shell.md)
 
-## Day 7: Live AWS Project using SHELL SCRIPTING for DevOps
+### Day 7: Live AWS Project using SHELL SCRIPTING for DevOps
 - [Live AWS Project using SHELL SCRIPTING for DevOps](/Day%207/11_Live_AWS_Project_using_SHELL_SCRIPTING.md)
 
-## Day 8: GitHub API Integration with Shell Scripting
+### Day 8: GitHub API Integration with Shell Scripting
 - [GitHub API Integration with Shell Scripting](/Day%208/12_GitHub_API_Integration_with_Shell%20Scripting.md)
 
 ## About This Repository
