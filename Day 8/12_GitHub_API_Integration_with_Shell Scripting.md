@@ -26,7 +26,10 @@ Let's start by writing a script to create a new repository on GitHub using the G
 ```bash
 #!/bin/bash
 
-# Define repository name and description
+# Define your GitHub personal access token
+GITHUB_TOKEN="your_github_personal_access_token_here"
+
+# Define the repository name and description
 REPO_NAME="my-new-repo"
 REPO_DESCRIPTION="This is my new repository"
 
@@ -34,6 +37,7 @@ REPO_DESCRIPTION="This is my new repository"
 curl -X POST -H "Authorization: token $GITHUB_TOKEN" \
      -d "{\"name\":\"$REPO_NAME\",\"description\":\"$REPO_DESCRIPTION\"}" \
      https://api.github.com/user/repos
+
 ```
 
 Make sure to replace `YOUR_PERSONAL_ACCESS_TOKEN` with your actual token.
