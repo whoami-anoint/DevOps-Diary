@@ -7,8 +7,8 @@ In Day 8 of our DevOps project, we will explore how to integrate the GitHub API 
 
 ### Prerequisites
 Before starting, ensure you have the following prerequisites:
-- A GitHub account
-- Basic knowledge of shell scripting
+- [A GitHub account](https://github.com/)
+- **Basic knowledge of shell scripting**
 - [GitHub Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 
 ### Step 1: Setting Up Authentication
