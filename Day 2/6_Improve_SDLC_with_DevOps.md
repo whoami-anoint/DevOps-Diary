@@ -31,3 +31,5 @@
 
 ### Homework
 - Research and list down at least three real-world examples of companies that have successfully implemented DevOps in their SDLC. Be prepared to discuss these examples in tomorrow's class.
+
+[Click here to continue to Day 3](/Day%203/) <!-- Update with Day 10 link when available -->
