@@ -189,3 +189,5 @@ These Linux commands are essential for managing servers, troubleshooting issues,
 - [Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 
 Understanding Linux and shell scripting is foundational for DevOps practitioners. It empowers you to automate tasks and manage server environments efficiently.
+
+[Click here to continue to Day 7](/Day%207/) <!-- Update with Day 10 link when available -->
