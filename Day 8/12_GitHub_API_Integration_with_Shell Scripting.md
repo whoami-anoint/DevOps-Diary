@@ -17,7 +17,7 @@ To interact with the GitHub API, you need to authenticate your requests. Create 
 
 ```bash
 # Set your GitHub Personal Access Token as an environment variable
-export GITHUB_TOKEN=YOUR_PERSONAL_ACCESS_TOKEN
+export GITHUB_TOKEN="YOUR_PERSONAL_ACCESS_TOKEN"
 ```
 
 ### Step 2: Creating a New Repository
