@@ -64,3 +64,6 @@ This table provides a concise comparison between AWS and Azure in various aspect
 - [Azure Automation Documentation](https://learn.microsoft.com/en-us/azure/automation/)
 
 Active participation in discussions and hands-on experience with AWS CLI and CloudFormation will help you gain practical skills in automation and cloud management.
+
+
+[Click here to continue to Day 5](/Day%205/) <!-- Update with Day 10 link when available -->
