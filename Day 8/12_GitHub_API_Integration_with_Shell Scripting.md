@@ -100,3 +100,5 @@ In this tutorial, we've explored how to integrate the GitHub API with shell scri
 Remember to keep your personal access token secure and consider using environment variables for better security practices.
 
 Don't forget to use the hashtag #DevOpsDiary when sharing your progress and insights with the community.
+
+[Click here to continue to Day 9](#) <!-- Update with Day 10 link when available -->
