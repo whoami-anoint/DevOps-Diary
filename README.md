@@ -40,8 +40,6 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 ### Day 9 : Git, GitHub, and Version Control
 - [Git, GitHub, and Version Control](/Day%209/13_Git_GitHub_and_Version_Control.md)
 
-### Day 10
-
 ## About This Repository
 
 This repository is a collection of notes and resources to assist you on your DevOps journey. Feel free to explore the chapters, ask questions in the discussions, and contribute by creating [pull requests](https://github.com/whoami-anoint/DevOps-Diary/pulls).
