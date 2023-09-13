@@ -19,25 +19,25 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 - [DevOps & Agile](Day%202/4_DevOps_Agile.md)
 - [Continuous Cycle of an Application in a DevOps World](Day%202/5_continuous_cycle.md)
 
-### Day 3: Virtual Machines Basics
+### Day 3 : Virtual Machines Basics
 - [Virtual Machines Basics](Day%203/7_virtual_machines_basics.md)
 
-### Day 4: Virtual Machines and Automation with AWS & Azure
+### Day 4 : Virtual Machines and Automation with AWS & Azure
 - [AWS & Azure: How to Create Virtual Machines and Automation](Day%204/8_aws_azure_virtual_machines_automation.md)
 
-### Day 5: EC2 Instance from UI & Terminal
+### Day 5 : EC2 Instance from UI & Terminal
 - [How to Connect to an EC2 Instance from UI & Terminal](Day%205/9_Connect_to_an_EC2_Instance_from_UI_and_Terminal.md)
 
-### Day 6: Linux & Shell Scripting
+### Day 6 : Linux & Shell Scripting
 - [Linux & Shell Scripting](/Day%206/10_linux_and_shell.md)
 
-### Day 7: Live AWS Project using SHELL SCRIPTING for DevOps
+### Day 7 : Live AWS Project using SHELL SCRIPTING for DevOps
 - [Live AWS Project using SHELL SCRIPTING for DevOps](/Day%207/11_Live_AWS_Project_using_SHELL_SCRIPTING.md)
 
-### Day 8: GitHub API Integration with Shell Scripting
+### Day 8 : GitHub API Integration with Shell Scripting
 - [GitHub API Integration with Shell Scripting](/Day%208/12_GitHub_API_Integration_with_Shell%20Scripting.md)
 
-### Day 9: Git, GitHub, and Version Control
+### Day 9 : Git, GitHub, and Version Control
 - [Git, GitHub, and Version Control](/Day%209/13_Git_GitHub_and_Version_Control.md)
 
 ### Day 10
