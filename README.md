@@ -10,11 +10,11 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 
 ## Table of Contents
 
-### Day 1: Introduction to DevOps
+### Day 1 : Introduction to DevOps
 - [Introduction of DevOps](Day%201/1_introduction.md)
 - [Responsibilities of a DevOps Engineer](Day%201/2_responsibilities.md)
 
-### Day 2: DevOps Lifecycle
+### Day 2 : DevOps Lifecycle
 - [DevOps Lifecycle](Day%202/3_lifecycle.md)
 - [DevOps & Agile](Day%202/4_DevOps_Agile.md)
 - [Continuous Cycle of an Application in a DevOps World](Day%202/5_continuous_cycle.md)
@@ -39,6 +39,8 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 
 ### Day 9: Git, GitHub, and Version Control
 - [Git, GitHub, and Version Control](/Day%209/13_Git_GitHub_and_Version_Control.md)
+
+### Day 10
 
 ## About This Repository
 
