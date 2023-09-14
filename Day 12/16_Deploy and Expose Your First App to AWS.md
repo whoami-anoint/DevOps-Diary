@@ -1,6 +1,3 @@
-Certainly! Here's a markdown script for "Day 12 | Deploy and Expose Your First App to AWS" in your #DevOps Diary. This entry will guide you through the process of deploying a Django project from GitHub to AWS:
-
-```markdown
 # DevOps Diary - Day 12 | Deploy and Expose Your First App to AWS
 
 ## Introduction
@@ -104,7 +101,5 @@ Congratulations! You've successfully deployed your Django project to AWS and exp
 
 Stay tuned for more DevOps adventures in the coming days!
 
-![AWS](link-to-aws-image.png)
-```
-
-Make sure to replace placeholders like `your-username`, `your-django-project`, and `your-instance-ip` with your actual GitHub project details and AWS instance information. Additionally, customize other settings according to your project's requirements.
+(![image](https://github.com/whoami-anoint/DevOps-Diary/assets/72187543/aa4bc840-02a9-4618-9900-25f883ad085c)
+)
