@@ -100,6 +100,3 @@ Let's break down the deployment process into actionable steps:
 Congratulations! You've successfully deployed your Django project to AWS and exposed it to the internet. This marks the end of Day 12 of our DevOps Diary. Remember to regularly update and maintain your AWS resources and Django app to ensure they run smoothly.
 
 Stay tuned for more DevOps adventures in the coming days!
-
-(![image](https://github.com/whoami-anoint/DevOps-Diary/assets/72187543/aa4bc840-02a9-4618-9900-25f883ad085c)
-
