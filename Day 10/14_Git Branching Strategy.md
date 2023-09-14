@@ -86,6 +86,18 @@ Here's a simplified workflow using the GitFlow strategy:
 7. **Handle Hotfixes (if needed)**:
    - In case of critical issues in production, create a hotfix branch from `master`, fix the issue, and merge it back into both `master` and `develop`.
 
+## Real World Example using this stratagy
+
+#### Scenario 1 : 
+Imagine you're working on a team developing a web application. Your team is using Git for version control, and you're tasked with adding a new feature to the application.
+
+[Solution](/Day%2010/14.1_senerio1.md)
+
+#### Scenario 2 : 
+Let’s say we have an application that has two main components: frontend and backend. Their respective repositories are hosted at GitHub under different organizations.
+
+[Solution]()
+
 ## Conclusion
 
 A well-implemented Git branching strategy like GitFlow can greatly enhance collaboration, code stability, and release management in your development process. To summarize:
