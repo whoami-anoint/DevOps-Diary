@@ -52,5 +52,3 @@ Git, GitHub, and DevOps form a perfect trio for modern software development and 
 In upcoming diary entries, we'll dive deeper into specific Git and GitHub workflows, CI/CD strategies, and DevOps best practices.
 
 Don't forget to use the hashtag #DevOpsDiary when sharing your progress and insights with the community.
-
-[Click here to continue to Day 10](#) <!-- Update with Day 10 link when available -->
