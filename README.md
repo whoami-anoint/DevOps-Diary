@@ -43,6 +43,9 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 ### Day 10: Git Branching Strategy
 - [Git Branching Strategy with Real World Examples](/Day%2010/14_Git%20Branching%20Strategy.md)
 
+### Day 11 : Git Interview Q&A and Commands
+[Git Interview Q&A and Commands](/Day%2011/15_Git%20Interview%20Q&A%20and%20Commands.md)
+
 ## About This Repository
 
 This repository is a collection of notes and resources to assist you on your DevOps journey. Feel free to explore the chapters, ask questions in the discussions, and contribute by creating [pull requests](https://github.com/whoami-anoint/DevOps-Diary/pulls).
