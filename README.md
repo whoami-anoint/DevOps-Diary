@@ -46,6 +46,9 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 ### Day 11 : Git Interview Q&A and Commands
 [Git Interview Q&A and Commands](/Day%2011/15_Git%20Interview%20Q&A%20and%20Commands.md)
 
+### Day 12 : Deploy and Expose Your First App to AWS
+[Deploy and Expose Your First App to AWS](/Day%2012/16_Deploy%20and%20Expose%20Your%20First%20App%20to%20AWS.md)
+
 ## About This Repository
 
 This repository is a collection of notes and resources to assist you on your DevOps journey. Feel free to explore the chapters, ask questions in the discussions, and contribute by creating [pull requests](https://github.com/whoami-anoint/DevOps-Diary/pulls).
