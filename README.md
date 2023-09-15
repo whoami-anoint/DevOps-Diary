@@ -49,6 +49,9 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 ### Day 12 : Deploy and Expose Your First App to AWS
 [Deploy and Expose Your First App to AWS](/Day%2012/16_Deploy%20and%20Expose%20Your%20First%20App%20to%20AWS.md)
 
+### Day 13 : Top 15 AWS Services that Every DevOps Engineers should learn
+[Top 15 AWS Services that Every DevOps Engineers should learn](/Day%2013/17_Top%2015%20AWS%20Services%20that%20Every%20DevOps%20Engineers%20should%20learn.md)
+
 ## About This Repository
 
 This repository is a collection of notes and resources to assist you on your DevOps journey. Feel free to explore the chapters, ask questions in the discussions, and contribute by creating [pull requests](https://github.com/whoami-anoint/DevOps-Diary/pulls).
