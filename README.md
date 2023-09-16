@@ -40,7 +40,7 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 ### Day 9 : Git, GitHub, and Version Control
 - [Git, GitHub, and Version Control](/Day%209/13_Git_GitHub_and_Version_Control.md)
 
-### Day 10: Git Branching Strategy
+### Day 10 : Git Branching Strategy
 - [Git Branching Strategy with Real World Examples](/Day%2010/14_Git%20Branching%20Strategy.md)
 
 ### Day 11 : Git Interview Q&A and Commands
