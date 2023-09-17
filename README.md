@@ -44,17 +44,17 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 - [Git Branching Strategy with Real World Examples](/Day%2010/14_Git%20Branching%20Strategy.md)
 
 ### Day 11 : Git Interview Q&A and Commands
-[Git Interview Q&A and Commands](/Day%2011/15_Git%20Interview%20Q&A%20and%20Commands.md)
+- [Git Interview Q&A and Commands](/Day%2011/15_Git%20Interview%20Q&A%20and%20Commands.md)
 
 ### Day 12 : Deploy and Expose Your First App to AWS
-[Deploy and Expose Your First App to AWS](/Day%2012/16_Deploy%20and%20Expose%20Your%20First%20App%20to%20AWS.md)
+- [Deploy and Expose Your First App to AWS](/Day%2012/16_Deploy%20and%20Expose%20Your%20First%20App%20to%20AWS.md)
 
 ### Day 13 : Top 15 AWS Services that Every DevOps Engineers should learn
-[Top 15 AWS Services that Every DevOps Engineers should learn](/Day%2013/17_Top%2015%20AWS%20Services%20that%20Every%20DevOps%20Engineers%20should%20learn.md)
+- [Top 15 AWS Services that Every DevOps Engineers should learn](/Day%2013/17_Top%2015%20AWS%20Services%20that%20Every%20DevOps%20Engineers%20should%20learn.md)
 
 ### Day 14 : Configuration Management with Ansible
-[Configuration Management with Ansible |  Puppet vs Ansible](/Day%2014/18_config.md)
-[Most asked interview questions on Ansible](/Day%2014/18.1_interview_QA.md)
+- [Configuration Management with Ansible |  Puppet vs Ansible](/Day%2014/18_config.md)
+- [Most asked interview questions on Ansible](/Day%2014/18.1_interview_QA.md)
 
 ## About This Repository
 
