@@ -54,6 +54,7 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 
 ### Day 14 : Configuration Management with Ansible
 [Configuration Management with Ansible |  Puppet vs Ansible](/Day%2014/18_config.md)
+[Most asked interview questions on Ansible](/Day%2014/18.1_interview_QA.md)
 
 ## About This Repository
 
