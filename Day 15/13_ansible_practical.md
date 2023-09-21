@@ -30,8 +30,8 @@ Example commands:
 **Objective:** Learn how to use Ansible for infrastructure provisioning.
 
 **Solution:**
-1. Create a playbook file (e.g., `playbook.yml`) with tasks to provision infrastructure resources.
-2. Define the target hosts in the inventory file (e.g., `inventory.ini`).
+1. Create a playbook file (e.g., [playbook.yml](/Day%2015/2_playbook.yaml)) with tasks to provision infrastructure resources.
+2. Define the target hosts in the inventory file (e.g.,[inventory.ini](/Day%2015/2_inventory.ini)).
 3. Run the playbook to provision the infrastructure.
 
 Example commands:
@@ -55,8 +55,8 @@ Example commands:
 **Objective:** Learn how to use Ansible for application deployment.
 
 **Solution:**
-1. Create a playbook file (e.g., `playbook.yml`) with tasks to deploy the application.
-2. Define the target hosts in the inventory file (e.g., `inventory.ini`).
+1. Create a playbook file (e.g., [playbook.yml](/Day%2015/3_playbook.yaml)) with tasks to deploy the application.
+2. Define the target hosts in the inventory file (e.g., [inventory.ini](/Day%2015/3_inventory.ini)).
 3. Run the playbook to deploy the application.
 
 Example commands:
