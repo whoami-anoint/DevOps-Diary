@@ -1,0 +1,32 @@
+# Practical 4: CI/CD
+
+- name: Trigger CI/CD pipelines
+  hosts: ci_cd_server
+  tasks:
+    - name: Trigger pipeline1
+      shell: /usr/bin/ci_cd_tool --pipeline pipeline1
+
+    - name: Trigger pipeline2
+      shell: /usr/bin/ci_cd_tool --pipeline pipeline2
+
+- name: Deploy application artifacts
+  hosts: deployment_servers
+  tasks:
+    - name: Copy artifacts
+      copy:
+        src: artifacts/
+        dest: /var/www/my_app/
+        owner: www-data
+        group: www-data
+        mode: 0755
+
+    - name: Restart web server
+      service:
+        name: apache2
+        state: restarted
+
+- name: Rollback deployments
+  hosts: deployment_servers
+  tasks:
+    - name: Rollback to previous version
+      shell: /usr/bin/deployment_tool --rollback
