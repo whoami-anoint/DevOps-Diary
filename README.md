@@ -56,9 +56,9 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 - [Configuration Management with Ansible |  Puppet vs Ansible](/Day%2014/18_config.md)
 - [Most asked interview questions on Ansible](/Day%2014/18.1_interview_QA.md)
 
-### Day 15 : Ansible Practicals and Its use cases
+### Day 15 : Ansible Practicals and Its use cases | YAML
 - [Ansible practicals and Uses cases](/Day%2015/13_ansible_practical.md)
-
+- [YAML Notes]()
 ## About This Repository
 
 This repository is a collection of notes and resources to assist you on your DevOps journey. Feel free to explore the chapters, ask questions in the discussions, and contribute by creating [pull requests](https://github.com/whoami-anoint/DevOps-Diary/pulls).
