@@ -6,7 +6,7 @@
 
 **Solution:**
 1. Create a playbook file (e.g., [`playbook.yml`](/Day%2015/1_playbook.yaml)) with the desired configuration tasks.
-2. Define the target hosts in the inventory file (e.g., `inventory.ini`).
+2. Define the target hosts in the inventory file (e.g., [`inventory.ini`](/Day%2015/1_inventory.ini)).
 3. Run the playbook to apply the configuration changes.
 
 Example commands:
