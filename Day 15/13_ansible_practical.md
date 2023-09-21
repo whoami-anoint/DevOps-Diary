@@ -80,8 +80,8 @@ Example commands:
 **Objective:** Learn how to use Ansible for CI/CD.
 
 **Solution:**
-1. Create a playbook file (e.g., `playbook.yml`) with tasks to trigger CI/CD pipelines or deploy artifacts.
-2. Define the target hosts in the inventory file (e.g., `inventory.ini`).
+1. Create a playbook file (e.g., [playbook.yml](/Day%2015/4_playbook.yaml)) with tasks to trigger CI/CD pipelines or deploy artifacts.
+2. Define the target hosts in the inventory file (e.g., [inventory.ini](/Day%2015/4_inventory.ini)).
 3. Run the playbook to trigger CI/CD or deploy artifacts.
 
 Example commands:
@@ -105,8 +105,8 @@ Example commands:
 **Objective:** Learn how to use Ansible for security and compliance.
 
 **Solution:**
-1. Create a playbook file (e.g., `playbook.yml`) with tasks to apply security patches, enforce configurations, or perform compliance audits.
-2. Define the target hosts in the inventory file (e.g., `inventory.ini`).
+1. Create a playbook file (e.g., [playbook.yml](/Day%2015/5_playbook.yaml)) with tasks to apply security patches, enforce configurations, or perform compliance audits.
+2. Define the target hosts in the inventory file (e.g., [inventory.ini](/Day%2015/5_inventory.ini)).
 3. Run the playbook to apply security measures or perform compliance checks.
 
 Example commands:
