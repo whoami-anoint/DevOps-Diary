@@ -1,0 +1,34 @@
+# Practical 5: Security and Compliance
+
+- name: Apply security patches
+  hosts: target_hosts
+  tasks:
+    - name: Update package cache
+      apt:
+        update_cache: yes
+
+    - name: Upgrade packages
+      apt:
+        upgrade: safe
+
+- name: Enforce security configurations
+  hosts: target_hosts
+  tasks:
+    - name: Copy security configuration file
+      copy:
+        src: files/security.conf
+        dest: /etc/security.conf
+        owner: root
+        group: root
+        mode: 0644
+
+    - name: Restart service
+      service:
+        name: my_service
+        state: restarted
+
+- name: Perform compliance audits
+  hosts: target_hosts
+  tasks:
+    - name: Run compliance audit script
+      command: /usr/bin/compliance_audit.sh
