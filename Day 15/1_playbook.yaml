@@ -1,0 +1,38 @@
+# Practical 1: Configuration Management
+
+- name: Install packages
+  hosts: target_hosts
+  tasks:
+    - name: Install package1
+      apt:
+        name: package1
+        state: present
+
+    - name: Install package2
+      apt:
+        name: package2
+        state: present
+
+- name: Manage services
+  hosts: target_hosts
+  tasks:
+    - name: Start service1
+      service:
+        name: service1
+        state: started
+
+    - name: Stop service2
+      service:
+        name: service2
+        state: stopped
+
+- name: Configure files
+  hosts: target_hosts
+  tasks:
+    - name: Copy configuration file
+      copy:
+        src: files/config.conf
+        dest: /etc/config.conf
+        owner: root
+        group: root
+        mode: 0644
