@@ -1,0 +1,34 @@
+# Practical 3: Application Deployment
+
+- name: Deploy web applications
+  hosts: web_servers
+  tasks:
+    - name: Copy application files
+      copy:
+        src: files/my_app/
+        dest: /var/www/my_app/
+        owner: www-data
+        group: www-data
+        mode: 0755
+
+    - name: Restart web server
+      service:
+        name: apache2
+        state: restarted
+
+- name: Update application configurations
+  hosts: app_servers
+  tasks:
+    - name: Update configuration file
+      template:
+        src: templates/config.conf.j2
+        dest: /etc/my_app/config.conf
+        owner: root
+        group: root
+        mode: 0644
+
+- name: Manage database migrations
+  hosts: db_servers
+  tasks:
+    - name: Run database migrations
+      command: /usr/bin/migrate
