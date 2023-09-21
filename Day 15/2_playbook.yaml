@@ -1,0 +1,47 @@
+# Practical 2: Infrastructure Provisioning
+
+- name: Create EC2 instances
+  hosts: localhost
+  tasks:
+    - name: Provision EC2 instances
+      ec2:
+        key_name: my_key
+        instance_type: t2.micro
+        image: ami-12345678
+        count: 2
+        region: us-west-2
+        vpc_subnet_id: subnet-12345678
+        assign_public_ip: yes
+        wait: yes
+      register: ec2_instances
+
+    - name: Add EC2 instances to inventory
+      add_host:
+        name: "{{ item.public_ip }}"
+        groups: ec2_instances
+      with_items: "{{ ec2_instances.instances }}"
+
+- name: Provision virtual machines
+  hosts: vm_hosts
+  tasks:
+    - name: Provision virtual machine
+      virt:
+        name: my_vm
+        state: running
+        memory: 2048
+        vcpu: 2
+        disk:
+          - size: 10G
+            format: qcow2
+            pool: default
+            path: /var/lib/libvirt/images/my_vm.qcow2
+
+- name: Configure network devices
+  hosts: network_devices
+  tasks:
+    - name: Configure device
+      ios_command:
+        commands:
+          - interface GigabitEthernet1/0/1
+          - description Connected to Server
+          - no shutdown
