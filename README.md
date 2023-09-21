@@ -58,7 +58,7 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 
 ### Day 15 : Ansible Practicals and Its use cases | YAML
 - [Ansible practicals and Uses cases](/Day%2015/13_ansible_practical.md)
-- [YAML Notes]()
+- [YAML Notes](/Day%2015/YAML/Yaml.md)
 ## About This Repository
 
 This repository is a collection of notes and resources to assist you on your DevOps journey. Feel free to explore the chapters, ask questions in the discussions, and contribute by creating [pull requests](https://github.com/whoami-anoint/DevOps-Diary/pulls).
