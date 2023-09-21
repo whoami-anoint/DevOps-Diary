@@ -1,5 +1,5 @@
 # Practical 1: Configuration Management
-
+---
 - name: Install packages
   hosts: target_hosts
   tasks:
@@ -36,3 +36,4 @@
         owner: root
         group: root
         mode: 0644
+---
