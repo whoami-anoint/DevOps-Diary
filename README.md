@@ -57,7 +57,7 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 - [Most asked interview questions on Ansible](/Day%2014/18.1_interview_QA.md)
 
 ### Day 15 : Ansible Practicals and Its use cases | YAML
-- [Ansible practicals and Uses cases](/Day%2015/13_ansible_practical.md)
+- [Ansible practicals and Uses cases](/Day%2015/ansible_practical.md)
 - [YAML Ain't Markup Language (YAML)](/Day%2015/YAML/Yaml.md)
 ## About This Repository
 
