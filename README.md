@@ -59,6 +59,9 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 ### Day 15 : Ansible Practicals and Its use cases | YAML
 - [Ansible practicals and Uses cases](/Day%2015/ansible_practical.md)
 - [YAML Ain't Markup Language (YAML)](/Day%2015/YAML/Yaml.md)
+
+### Day 16 : Infrastructure as Code
+- [Infrastructure as Code](/Day%2016/%20Infrastructure%20as%20Code.md)
 ## About This Repository
 
 This repository is a collection of notes and resources to assist you on your DevOps journey. Feel free to explore the chapters, ask questions in the discussions, and contribute by creating [pull requests](https://github.com/whoami-anoint/DevOps-Diary/pulls).
