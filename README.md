@@ -63,7 +63,8 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 ### Day 16 : Infrastructure as Code
 - [Infrastructure as Code](/Day%2016/%20Infrastructure%20as%20Code.md)
 
-### 
+### Day 17 : Teraform Overview
+- [Teraform Introduction](/Day%2017/teraform.md)
 
 ## About This Repository
 
