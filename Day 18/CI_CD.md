@@ -52,4 +52,4 @@ CI/CD is a set of practices in software development and DevOps that aim to deliv
 
 CI/CD is a vital part of DevOps, fostering collaboration and speeding up the development process.
 
-Keep up the great work on your #DevOpsJourney! 🚀
+Keep up the great work on your #DevOps Journey! 🚀
