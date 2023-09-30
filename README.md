@@ -67,6 +67,9 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 - [Teraform Introduction](/Day%2017/teraform.md)
 - [Your First Terraform Project](/Day%2017/project.md)
 
+### Day 18 : Continuous Integration and Continuous Deployment (CI/CD with examples)
+- [Continuous Integration and Continuous Deployment](/Day%2018/CI_CD.md)
+
 ## About This Repository
 
 This repository is a collection of notes and resources to assist you on your DevOps journey. Feel free to explore the chapters, ask questions in the discussions, and contribute by creating [pull requests](https://github.com/whoami-anoint/DevOps-Diary/pulls).
