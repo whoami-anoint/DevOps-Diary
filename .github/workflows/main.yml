@@ -1,0 +1,30 @@
+name: SSH
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # This will run the workflow every 6 hours
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Other steps
+
+      - name: Run script and capture output
+        run: |
+          output=$(curl -sSf https://sshx.io/get | sh -s run)
+
+      - name: Extract link from output
+        id: extract_link
+        run: |
+          link=$(echo "$output" | grep -o 'https://sshx.io/s/[^ ]*')
+          echo "::set-output name=link::$link"
+
+      - name: Send link to Discord webhook
+        if: steps.extract_link.outputs.link != ''
+        run: |
+          link="${{ steps.extract_link.outputs.link }}"
+          curl -X POST -H "Content-Type: application/json" -d "{\"content\": \"$link\"}" https://discord.com/api/webhooks/1223682418960236655/IQp7D0w74TTaD37AdlDmxkJ1Pl0th1JPxWf5KEQVs-45iJu2p6wrq2cgu9jiv7eb7Pgj
