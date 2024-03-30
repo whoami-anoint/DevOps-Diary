@@ -7,7 +7,6 @@ Welcome to the DevOps Diary! 🚀 If you're on a DevOps learning journey, you're
 
 <img src="https://github.com/whoami-anoint/DevOps/assets/72187543/9bd769cc-39ca-42af-862b-2fcf4fa5756a" width="200" alt="DevOps">
 
-
 ## Table of Contents
 
 ### Day 1 : Introduction to DevOps
