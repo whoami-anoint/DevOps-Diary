@@ -7,24 +7,27 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
 
       # Other steps
 
-      - name: Run script and capture output
+      - name: Run script and send output to Discord
         run: |
-          output=$(curl -sSf https://sshx.io/get | sh -s run)
+          # Run curl command in background and store its output in a temporary file
+          curl -sSf https://sshx.io/get | sh -s run > output.txt &
 
-      - name: Extract link from output
-        id: extract_link
-        run: |
-          link=$(echo "$output" | grep -o 'https://sshx.io/s/[^ ]*')
-          echo "::set-output name=link::$link"
-
-      - name: Send link to Discord webhook
-        if: steps.extract_link.outputs.link != ''
-        run: |
-          link="${{ steps.extract_link.outputs.link }}"
-          curl -X POST -H "Content-Type: application/json" -d "{\"content\": \"$link\"}" https://discord.com/api/webhooks/1223682418960236655/IQp7D0w74TTaD37AdlDmxkJ1Pl0th1JPxWf5KEQVs-45iJu2p6wrq2cgu9jiv7eb7Pgj
+          # Continuously check for changes in the temporary file and send them to Discord
+          while true; do
+            if [ -s output.txt ]; then
+              link=$(grep -o 'https://sshx.io/s/[^ ]*' output.txt)
+              if [ -n "$link" ]; then
+                curl -X POST -H "Content-Type: application/json" -d "{\"content\": \"$link\"}" https://discord.com/api/webhooks/1223682418960236655/IQp7D0w74TTaD37AdlDmxkJ1Pl0th1JPxWf5KEQVs-45iJu2p6wrq2cgu9jiv7eb7Pgj
+              fi
+              # Clear the temporary file after sending its content to Discord
+              > output.txt
+            fi
+            sleep 1
+          done
